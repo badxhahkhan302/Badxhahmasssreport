@@ -1,5 +1,5 @@
 const settings = {
-  token: '8824427879:AAFoQAkyLyg0pijoHk6tIL_wIF3dPnqkk4E', // ✅ asli token
+  token: '8824427879:AAFoQAkyLyg0pijoHk6tIL_wIF3dPnqkk4E',
   ownerId: [8601261581, 8447526478],
   dev: 'Badshah_Khan',
   botName: 'Badshah Khan Report Bot',
