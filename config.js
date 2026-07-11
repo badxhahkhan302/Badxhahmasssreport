@@ -1,5 +1,5 @@
 const settings = {
-  token: '8824427879:AAFz7s7VgnEdfB1KAZfZrqbT3xFTLpswcFo',
+  token: '',
   ownerId: [8601261581, 8447526478],
   dev: 'Badshah_Khan',
   botName: 'Badshah Khan Report Bot',
