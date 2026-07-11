@@ -1,5 +1,5 @@
-const settings = {
-  token: '7234567890:AAHdUAMGH69XxfSq6NUOjsKV5l7J9oLJzKk',
+ip poconst settings = {
+  token: '7234567890:AAHdUAMGH69XxfSq6NU0jsKV51',
   ownerId: [8601261581, 8447526478],
   dev: 'Badshah_Khan',
   botName: 'Badshah Khan Report Bot',
